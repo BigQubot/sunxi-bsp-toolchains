@@ -2,6 +2,10 @@
 
 Download: https://github.com/BigQubot/sunxi-bsp-toolchains/releases
 
+BPI-M8 (A733) U-Boot: [GCC 7.2.1](https://github.com/BigQubot/sunxi-bsp-toolchains/releases/download/1.0.0/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi.tar.xz)
+
+SHA256: `89e9bfc7ffe615f40a72c2492df0488f25fc20404e5f474501c8d55941337f71`
+
   <table width="767" border="0" cellpadding="0" cellspacing="0" style='width:575.25pt;border-collapse:collapse;table-layout:fixed;'>
    <col width="133" style='mso-width-source:userset;mso-width-alt:4256;'/>
    <col width="72" style='width:54.00pt;'/>
